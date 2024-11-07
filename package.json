@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@mui/material": "^6.1.6",
+    "sweetalert2": "^11.14.5"
+  }
+}
